@@ -1,0 +1,77 @@
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\TestareSaucedemo.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\TestareSaucedemo.pdb
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\WebDriver.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\WebDriver.Support.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\WebDriver.xml
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\bin\Debug\WebDriver.Support.xml
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.csprojAssemblyReference.cache
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.csproj.CoreCompileInputs.cache
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.csproj.CopyComplete
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.dll
+C:\Users\irobe\source\repos\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.pdb
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\TestareSaucedemo.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\TestareSaucedemo.pdb
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\WebDriver.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\WebDriver.Support.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\WebDriver.xml
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\WebDriver.Support.xml
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.csprojAssemblyReference.cache
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.csproj.CoreCompileInputs.cache
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.csproj.CopyComplete
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\obj\Debug\TestareSaucedemo.pdb
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\TestareSaucedemo.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\TestareSaucedemo.pdb
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\WebDriver.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\WebDriver.Support.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\WebDriver.xml
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\WebDriver.Support.xml
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.csprojAssemblyReference.cache
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.csproj.CoreCompileInputs.cache
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.csproj.CopyComplete
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.dll
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.pdb
+C:\Users\UnicornRoz\Documents\Facultate\Irina\Testare\Cloned-project\TestareSaucedemo\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Workspace\GitHub\Testare\TestareSaucedemo\TestareSaucedemo\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\TestareSaucedemo.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\TestareSaucedemo.pdb
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\WebDriver.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\WebDriver.Support.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\WebDriver.xml
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\WebDriver.Support.xml
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.csprojAssemblyReference.cache
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.csproj.CoreCompileInputs.cache
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.csproj.CopyComplete
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.dll
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\obj\Debug\TestareSaucedemo.pdb
+C:\Users\jurko\OneDrive\Desktop\Master-anul1-sem 2\Testare\Cloned-project\TestareSaucedemo\bin\Debug\Selenium.WebDriver.WaitExtensions.dll
