@@ -1,6 +1,6 @@
-# TestareSaucedemo
 
-Teste:
+
+Test cases:
 - [ ] 1. User login test
 - [ ] 2. Register new user test
 - [ ] 3. Menu search test
