@@ -1,12 +1,12 @@
 # TestareSaucedemo
 
 Teste:
-- [x] 1. <del>AcceptedUserLoginTest</del>
-- [x] 2. <del>LockedUserLoginTest</del>
-- [ ] 3. SortingCategoriesTest
-- [x] 4. <del>AddToChartTest</del>
-- [x] 5. <del>CheckoutTest</del>
-- [ ] 6. CancelOrderTest
-- [x] 7. <del>FinishOrderTest</del>
-- [ ] 8. CheckChartAfterLogoutTest
-- [ ] 9. ResetAppStateTest
+- [ ] 1. User login test
+- [ ] 2. Register new user test
+- [ ] 3. Menu search test
+- [ ] 4. Add product to cart test
+- [ ] 5. Place order test
+- [ ] 6. Cancel order test
+- [ ] 7. Product review test
+- [ ] 8. Add product to whishlist
+- [ ] 9. Reserve a product in a store
